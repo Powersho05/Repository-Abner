@@ -2,10 +2,11 @@ body{
   background:#CCCCCC
 }
 #banner{
-  
+  width:100%;
 }
 h1{
   text-align:center
+  border:10px solid #000000;
 }
 p{
   text-align:center;
